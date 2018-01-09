@@ -1,0 +1,7 @@
+this is a plaintext document which is a tester.
+
+ABCDEF GHIJ KLM NOPQR STUVW XYZ
+
+ab cde fghi jklmn opqrs tuvw xyz
+
+<>++-\\||//?!@#$%^&*()_={}[]~`;:””’’
